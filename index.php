@@ -2,6 +2,7 @@
 
 echo "Hello World 2!";
 phpinfo();
-echo "qwerty":
+echo "qwerty";
+var_dump("testing branch");
 
 ?>
