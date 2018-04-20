@@ -1,6 +1,7 @@
 <?php
 
 phpinfo();
-echo "qwerty":
+echo "qwerty";
+var_dump("master branch");
 
 ?>
